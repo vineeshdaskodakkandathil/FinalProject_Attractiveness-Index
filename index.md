@@ -7,8 +7,16 @@ A recent article on the Brooklyn borough's booming nightlife and recreational ac
 **Parameters and Scoring**
 ![Parameter and Scoring](https://github.com/vineeshdaskodakkandathil/FinalProject_Attractiveness-Index/blob/4d191e07ec64dde14ab2730fff08dda5851ad6d4/Scoring.png)
 
+
+
+
+
 **Static Maps**
 ![Static Maps](https://github.com/vineeshdaskodakkandathil/FinalProject_Attractiveness-Index/blob/232fa5c4c9ed0ed33a555c21c40ab1c762fc9f1e/Staticmaps.jpg)
+
+
+
+
 
 **Interactive Map**
 <iframe src="Attractiveness Index.html" height="500" width="500"></iframe>
