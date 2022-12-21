@@ -14,7 +14,7 @@ A recent article on the Brooklyn borough's booming nightlife and recreational ac
 
 
 **Static Maps**
-()
+[Static Maps](https://github.com/vineeshdaskodakkandathil/FinalProject_Attractiveness-Index/blob/232fa5c4c9ed0ed33a555c21c40ab1c762fc9f1e/Staticmaps.jpg)
 
 
 
